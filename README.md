@@ -3,7 +3,7 @@
 ### 📂 My Repositories
 
 - [Utkarshjain1338-hub](https://github.com/utkarshjain1338-hub/Utkarshjain1338-hub) — My profile repository.
-- [Creative Security Projects](https://github.com/utkarshjain1338-hub?tab=repositories) — View all my projects.
+- [Creative Projects](https://github.com/utkarshjain1338-hub?tab=repositories) — View all my projects.
 
 ---
 
